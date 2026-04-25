@@ -17,7 +17,7 @@ The goal of this project is to demonstrate:
 
 ## 🏗️ High-Level Architecture
 
-![Architecture](Images/Daigrams.png)
+![Architecture](Daigrams.png)
 
 ### 🔹 Key Highlights
 
@@ -30,7 +30,7 @@ The goal of this project is to demonstrate:
 
 ## 🎮 Gameplay Flow
 
-![Gameplay Flow](Images/Daigrams.png)
+![Gameplay Flow](Daigrams.png)
 
 **Loop:**
 Lobby → Matchmaking → Drop → Loot → Fight → Zone Shrink → Survive → Win/Lose
@@ -39,7 +39,7 @@ Lobby → Matchmaking → Drop → Loot → Fight → Zone Shrink → Survive �
 
 ## 🔫 Weapon System
 
-![Weapon System](Images/Daigrams.png)
+![Weapon System](Daigrams.png)
 
 ### Features:
 
@@ -51,7 +51,7 @@ Lobby → Matchmaking → Drop → Loot → Fight → Zone Shrink → Survive �
 
 ## ⭕ Zone System
 
-![Zone System](Images/Daigrams.png)
+![Zone System](Daigrams.png)
 
 ### Features:
 
@@ -63,7 +63,7 @@ Lobby → Matchmaking → Drop → Loot → Fight → Zone Shrink → Survive �
 
 ## 🌐 Networking Architecture
 
-![Networking](Images/Daigrams.png)
+![Networking](Daigrams.png)
 
 ### Approach:
 
@@ -76,7 +76,7 @@ Lobby → Matchmaking → Drop → Loot → Fight → Zone Shrink → Survive �
 
 ## 📈 Upgrade & Progression System
 
-![Upgrade System](Images/Daigrams.png)
+![Upgrade System](Daigrams.png)
 
 * Weapon upgrades (damage, recoil, ammo)
 * Player upgrades (health, speed, armor)
@@ -86,7 +86,7 @@ Lobby → Matchmaking → Drop → Loot → Fight → Zone Shrink → Survive �
 
 ## 🎁 Loot System
 
-![Loot System](Images/Daigrams.png)
+![Loot System](Daigrams.png)
 
 * Randomized loot spawning
 * Rarity tiers (Common → Legendary)
@@ -116,19 +116,19 @@ This project also demonstrates **real-world Agile workflow**.
 
 ## 📊 Scrum Board
 
-![Scrum Board](Images/Agile(Scrum_board).png)
+![Scrum Board](Agile(Scrum_board).png)
 
 ---
 
 ## 📉 Sprint Burndown Chart
 
-![Burndown](Images/Agile(Scrum_board).png)
+![Burndown](Agile(Scrum_board).png)
 
 ---
 
 ## 📈 Team Velocity
 
-![Velocity](Images/Agile(Scrum_board).png)
+![Velocity](Agile(Scrum_board).png)
 
 ---
 
